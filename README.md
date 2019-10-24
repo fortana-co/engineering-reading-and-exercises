@@ -95,29 +95,37 @@
 
 ### Testing
 
-- API testing, integration tests
+- API testing
   - <https://www.django-rest-framework.org/api-guide/testing/>
+- Integration tests  
   - <https://github.com/kylebebak/Requester/tree/master/tests>
   - <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
   - <https://kylebebak.github.io/post/cargo-cult-testing>
+  - if you want good coverage __you need integration tests__
+- Tests that never fail don't tell you anything
+- Test behavior, not implementation
+- Test coverage percentage is meaningless on its own, and there's no such thing as 100% test coverage
+- Prioritize unit tests for functions that are subtle, difficult, or crucial to the system
 
 ### General
 
-- Git
-  - rewriting history and undoing mistakes: `log`, `reflog`, `branch`, `diff`, `checkout`, `reset`, `reset --hard`, `reset --soft`, `cherry-pick`, `revert`, `stash`, `stash pop`, and just maybe `rebase`
-  - forking projects: `remote`, `remote add`, `remote remove`
 - Text editor
   - **master your text editor**, because you use it more than anything else
-  * <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
+  - <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
+- Git
+  - after your text editor, Git is probably the most important tool to master
+  - compare files, travel through time, rewrite history and undo mistakes: `log`, `reflog`, `branch`, `diff`, `checkout`, `reset`, `reset --hard`, `reset --soft`, `cherry-pick`, `revert`, `stash`, `stash pop`, and just maybe `rebase`
+  - forking projects: `remote`, `remote add`, `remote remove`
 - Debugging
   - more than anything, this depends on experience, and setting up a really short feedback loop for doing experiments with your code
-  - it's worth the up-front cost to set up a good dev environment
+  - it's worth the up-front cost to set up a __good dev environment__
 - Choosing libraries
-  - number of **meaningful** contributors, number of issues, ratio of open issues to closed issues, recent commits, handling of important issues, documentation, live examples, TypeScript compatibility
+  - number of **meaningful** contributors, number of issues, ratio of open issues to closed issues, handling of important issues, recent commits, documentation, live examples, TypeScript compatibility
   - clone the repo, open it in your text editor, and `yarn start` or `yarn dev` or whatever
 - Documentation and comments
   - <https://blog.codinghorror.com/when-good-comments-go-bad/>
   - <https://blog.codinghorror.com/coding-without-comments/>
+  - comments explain __why__, not __how__ (the code explains how)
 - What makes software good (or bad)?
   - <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
   - <https://www.python.org/dev/peps/pep-0020/>
