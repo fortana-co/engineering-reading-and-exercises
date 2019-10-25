@@ -1,3 +1,9 @@
+# Fortana's Engineering Reading/Exercise List
+
+Hello Fortana engineers! Make your own branch (with your name) in this repo and check things off as you read/do them. If you want to add, or remove, or replace, or add observations to something, submit a PR against `master`.
+
+This list should change as the company changes. We should talk about things on this list!
+
 ## Quick Reads
 
 ### Frontend
