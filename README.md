@@ -9,7 +9,7 @@ This list should change as the company changes. We should talk about things on t
 ### Frontend
 
 - React
-  - [ ] <https://marmelab.com/blog/2019/03/13/react-dependency-injection.html>
+  - [x] <https://marmelab.com/blog/2019/03/13/react-dependency-injection.html>
   - [ ] <https://reactjs.org/docs/thinking-in-react.html>
 - Redux and managing state
   - [ ] <https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html>
