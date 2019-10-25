@@ -25,7 +25,11 @@ This list should change as the company changes. We should talk about things on t
 - GraphQL
   - [ ] <https://github.com/kylebebak/talks-start-using-typescript>
 - Polling and real-time web, websockets
+  - [ ] <https://www.figma.com/blog/how-figmas-multiplayer-technology-works/>, everything in this blog is worth reading
+  - [ ] <https://www.figma.com/blog/realtime-editing-of-ordered-sequences/>
   - [ ] <https://github.com/elementary-robotics/cloud-frontend>, `Video.tsx` and `StreamListener.tsx`
+  - [ ] <https://www.figma.com/blog/rust-in-production-at-figma/>, limitations of event loops for async servers
+  - [ ] [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 - File uploads
   - [ ] <https://react-dropzone-uploader.js.org>
 - HTML, CSS, SASS, Flexbox, CSS modules
