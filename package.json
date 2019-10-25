@@ -1,0 +1,20 @@
+{
+  "name": "reading-and-exercises",
+  "version": "1.0.0",
+  "repository": "git@github.com:fortana-co/engineering-reading-and-exercises.git",
+  "author": "Kyle Bebak <kylebebak@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^3.0.9",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "prettier-check": "prettier --check *.md",
+    "prettier": "prettier --write *.md"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run prettier-check"
+    }
+  }
+}

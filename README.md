@@ -107,11 +107,11 @@ This list should change as the company changes. We should talk about things on t
 
 - API testing
   - [ ] <https://www.django-rest-framework.org/api-guide/testing/>
-- Integration tests  
+- Integration tests
   - [ ] <https://github.com/kylebebak/Requester/tree/master/tests>
   - [ ] <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
   - [ ] <https://kylebebak.github.io/post/cargo-cult-testing>
-  - if you want good coverage __you need integration tests__
+  - if you want good coverage **you need integration tests**
 - Tests that never fail don't tell you anything
 - Test behavior, not implementation
 - Test coverage percentage is meaningless on its own, and there's no such thing as 100% test coverage
@@ -128,14 +128,14 @@ This list should change as the company changes. We should talk about things on t
   - forking projects: `remote`, `remote add`, `remote remove`
 - Debugging
   - more than anything, this depends on experience, and setting up a really short feedback loop for doing experiments with your code
-  - it's worth the up-front cost to set up a __good dev environment__
+  - it's worth the up-front cost to set up a **good dev environment**
 - Choosing libraries
   - number of **meaningful** contributors, number of issues, ratio of open issues to closed issues, handling of important issues, recent commits, documentation, live examples, TypeScript compatibility
   - clone the repo, open it in your text editor, and `yarn start` or `yarn dev` or whatever
 - Documentation and comments
   - [ ] <https://blog.codinghorror.com/when-good-comments-go-bad/>
   - [ ] <https://blog.codinghorror.com/coding-without-comments/>
-  - comments explain __why__, not __how__ (the code explains how)
+  - comments explain **why**, not **how** (the code explains how)
 - What makes software good (or bad)?
   - [ ] <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
   - [ ] <https://www.python.org/dev/peps/pep-0020/>
