@@ -3,83 +3,83 @@
 ### Frontend
 
 - React
-  - <https://marmelab.com/blog/2019/03/13/react-dependency-injection.html>
-  - <https://reactjs.org/docs/thinking-in-react.html>
+  - [ ] <https://marmelab.com/blog/2019/03/13/react-dependency-injection.html>
+  - [ ] <https://reactjs.org/docs/thinking-in-react.html>
 - Redux and managing state
-  - <https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html>
+  - [ ] <https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html>
 - Caching API responses
-  - <https://github.com/kylebebak/talks-start-using-typescript>
+  - [ ] <https://github.com/kylebebak/talks-start-using-typescript>
 - TypeScript
-  - <https://github.com/fortana-co/request.js>
-  - <https://github.com/fortana-co/react-dropzone-uploader>
-  - <https://github.com/kylebebak/talks-start-using-typescript>
+  - [ ] <https://github.com/fortana-co/request.js>
+  - [ ] <https://github.com/fortana-co/react-dropzone-uploader>
+  - [ ] <https://github.com/kylebebak/talks-start-using-typescript>
 - Promises
-  - <https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261>
-  - <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise>
+  - [ ] <https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261>
+  - [ ] <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise>
 - GraphQL
-  - <https://github.com/kylebebak/talks-start-using-typescript>
+  - [ ] <https://github.com/kylebebak/talks-start-using-typescript>
 - Polling and real-time web, websockets
-  - <https://github.com/elementary-robotics/cloud-frontend>, `Video.tsx` and `StreamListener.tsx`
+  - [ ] <https://github.com/elementary-robotics/cloud-frontend>, `Video.tsx` and `StreamListener.tsx`
 - File uploads
-  - <https://react-dropzone-uploader.js.org>
+  - [ ] <https://react-dropzone-uploader.js.org>
 - HTML, CSS, SASS, Flexbox, CSS modules
 - Application folder structure
   - KISS: `src` directory in root of repo, with source code
-  - <https://github.com/elementary-robotics/cloud-frontend>
+  - [ ] <https://github.com/elementary-robotics/cloud-frontend>
 - Pre-rendering for SPAs
-  - <https://developers.google.com/search/docs/guides/dynamic-rendering>
+  - [ ] <https://developers.google.com/search/docs/guides/dynamic-rendering>
 
 ### Backend
 
 - API design
-  - <https://stackoverflow.com/questions/4024271/rest-api-best-practices-where-to-put-parameters>
-  - <https://stackoverflow.com/questions/16086513/using-query-string-in-rest-web-services>
-  - <https://stackoverflow.com/questions/3868705/implementing-url-slug-functionality-in-a-website?rq=1>
-  - <https://docs.djangoproject.com/en/2.2/topics/cache/>
+  - [ ] <https://stackoverflow.com/questions/4024271/rest-api-best-practices-where-to-put-parameters>
+  - [ ] <https://stackoverflow.com/questions/16086513/using-query-string-in-rest-web-services>
+  - [ ] <https://stackoverflow.com/questions/3868705/implementing-url-slug-functionality-in-a-website?rq=1>
+  - [ ] <https://docs.djangoproject.com/en/2.2/topics/cache/>
   - pagination, cursors: <https://www.django-rest-framework.org/api-guide/pagination/#cursorpagination>
 - DRF
-  - <http://www.cdrf.co/>
-  - <http://www.django-rest-framework.org/>
+  - [ ] <http://www.cdrf.co/>
+  - [ ] <http://www.django-rest-framework.org/>
 - FastAPI, Asyncio
-  - <https://stackoverflow.com/questions/49005651/how-does-asyncio-actually-work>
-  - <https://github.com/kylebebak/fastapi_graphql>
+  - [ ] <https://stackoverflow.com/questions/49005651/how-does-asyncio-actually-work>
+  - [ ] <https://github.com/kylebebak/fastapi_graphql>
 - GraphQL
-  - <https://github.com/kylebebak/fastapi_graphql>
+  - [ ] <https://github.com/kylebebak/fastapi_graphql>
 - Mypy
-  - <http://mypy-lang.org/>
+  - [ ] <http://mypy-lang.org/>
 - Redis (pub/sub, streams)
-  - <https://redis.io/topics/streams-intro>
+  - [ ] <https://redis.io/topics/streams-intro>
 - Docker
-  - <https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/>
+  - [ ] <https://www.caktusgroup.com/blog/2017/03/14/production-ready-dockerfile-your-python-django-app/>
 
 ### Databases
 
 - SQL, specifically for Postgres
-  - <http://postgresguide.com/>
+  - [ ] <http://postgresguide.com/>
 - Database design
-  - <https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about>
+  - [ ] <https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about>
 - Indexes, UUIDs, full-text search
-  - <https://czep.net/17/full-text-search.html>
-  - <http://rachbelaid.com/postgres-full-text-search-is-good-enough/>
-  - <https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439>
+  - [ ] <https://czep.net/17/full-text-search.html>
+  - [ ] <http://rachbelaid.com/postgres-full-text-search-is-good-enough/>
+  - [ ] <https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439>
 - Data migrations
-  - <https://docs.djangoproject.com/en/2.2/topics/migrations/#data-migrations>
+  - [ ] <https://docs.djangoproject.com/en/2.2/topics/migrations/#data-migrations>
 
 ### Algorithms and Performance
 
 - Data structures (lists, queues, stacks and dicts)
-  - <https://github.com/kylebebak/python_algorithms>
-  - <https://wiki.python.org/moin/TimeComplexity>
-  - <https://anandology.com/python-practice-book/>
+  - [ ] <https://github.com/kylebebak/python_algorithms>
+  - [ ] <https://wiki.python.org/moin/TimeComplexity>
+  - [ ] <https://anandology.com/python-practice-book/>
 - Performance (database, back end, front end)
-  - <https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html>
-  - <https://kylebebak.github.io/post/clustering-location-history-records>
-  - <https://wiki.python.org/moin/TimeComplexity>
+  - [ ] <https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html>
+  - [ ] <https://kylebebak.github.io/post/clustering-location-history-records>
+  - [ ] <https://wiki.python.org/moin/TimeComplexity>
 - Algorithms
-  - <https://anandology.com/python-practice-book/>
-  - <https://projecteuler.net>
-  - <https://algs4.cs.princeton.edu/code/>
-  - <https://www.coursera.org/learn/algorithms-part1>
+  - [ ] <https://anandology.com/python-practice-book/>
+  - [ ] <https://projecteuler.net>
+  - [ ] <https://algs4.cs.princeton.edu/code/>
+  - [ ] <https://www.coursera.org/learn/algorithms-part1>
 
 ### Web Security (CORS, SOP, CSRF, XSS)
 
@@ -96,11 +96,11 @@
 ### Testing
 
 - API testing
-  - <https://www.django-rest-framework.org/api-guide/testing/>
+  - [ ] <https://www.django-rest-framework.org/api-guide/testing/>
 - Integration tests  
-  - <https://github.com/kylebebak/Requester/tree/master/tests>
-  - <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
-  - <https://kylebebak.github.io/post/cargo-cult-testing>
+  - [ ] <https://github.com/kylebebak/Requester/tree/master/tests>
+  - [ ] <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
+  - [ ] <https://kylebebak.github.io/post/cargo-cult-testing>
   - if you want good coverage __you need integration tests__
 - Tests that never fail don't tell you anything
 - Test behavior, not implementation
@@ -111,7 +111,7 @@
 
 - Text editor
   - **master your text editor**, because you use it more than anything else
-  - <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
+  - [ ] <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
 - Git
   - after your text editor, Git is probably the most important tool to master
   - compare files, travel through time, rewrite history and undo mistakes: `log`, `reflog`, `branch`, `diff`, `checkout`, `reset`, `reset --hard`, `reset --soft`, `cherry-pick`, `revert`, `stash`, `stash pop`, and just maybe `rebase`
@@ -123,20 +123,20 @@
   - number of **meaningful** contributors, number of issues, ratio of open issues to closed issues, handling of important issues, recent commits, documentation, live examples, TypeScript compatibility
   - clone the repo, open it in your text editor, and `yarn start` or `yarn dev` or whatever
 - Documentation and comments
-  - <https://blog.codinghorror.com/when-good-comments-go-bad/>
-  - <https://blog.codinghorror.com/coding-without-comments/>
+  - [ ] <https://blog.codinghorror.com/when-good-comments-go-bad/>
+  - [ ] <https://blog.codinghorror.com/coding-without-comments/>
   - comments explain __why__, not __how__ (the code explains how)
 - What makes software good (or bad)?
-  - <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
-  - <https://www.python.org/dev/peps/pep-0020/>
-  - <https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb>
-  - <https://www.dreamsongs.com/RiseOfWorseIsBetter.html>
-  - <https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/>
-  - <https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/>
-  - <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
-  - <http://calteches.library.caltech.edu/51/2/CargoCult.htm>
+  - [ ] <https://web.archive.org/web/20170401165039/https://fluff.info/terrible/>
+  - [ ] <https://www.python.org/dev/peps/pep-0020/>
+  - [ ] <https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb>
+  - [ ] <https://www.dreamsongs.com/RiseOfWorseIsBetter.html>
+  - [ ] <https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/>
+  - [ ] <https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/>
+  - [ ] <https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf>
+  - [ ] <http://calteches.library.caltech.edu/51/2/CargoCult.htm>
 - Other
-  - <http://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files/2998544>
+  - [ ] <http://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files/2998544>
 
 ## Courses
 
