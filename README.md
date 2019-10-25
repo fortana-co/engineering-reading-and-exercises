@@ -89,15 +89,15 @@ This list should change as the company changes. We should talk about things on t
 
 ### Web Security (CORS, SOP, CSRF, XSS)
 
-- <https://security.stackexchange.com/questions/97825/is-cors-helping-in-anyway-against-cross-site-forgery>
-- <https://softwareengineering.stackexchange.com/questions/216605/how-do-web-servers-enforce-the-same-origin-policy>
-- <https://stackoverflow.com/questions/13897472/how-do-third-party-tracking-cookies-work>
-- <https://kylebebak.github.io/post/browser-security-worse-is-better>
-- <http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/>
-- <https://blogs.msdn.microsoft.com/ieinternals/2009/08/28/same-origin-policy-part-1-no-peeking/>
-- <https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Access-Control-Allow-Origin>
-- <https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)>
-- <https://blog.codinghorror.com/protecting-your-cookies-httponly/>
+- [ ] <https://security.stackexchange.com/questions/97825/is-cors-helping-in-anyway-against-cross-site-forgery>
+- [ ] <https://softwareengineering.stackexchange.com/questions/216605/how-do-web-servers-enforce-the-same-origin-policy>
+- [ ] <https://stackoverflow.com/questions/13897472/how-do-third-party-tracking-cookies-work>
+- [ ] <https://kylebebak.github.io/post/browser-security-worse-is-better>
+- [ ] <http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/>
+- [ ] <https://blogs.msdn.microsoft.com/ieinternals/2009/08/28/same-origin-policy-part-1-no-peeking/>
+- [ ] <https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Access-Control-Allow-Origin>
+- [ ] <https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)>
+- [ ] <https://blog.codinghorror.com/protecting-your-cookies-httponly/>
 
 ### Testing
 
@@ -146,18 +146,18 @@ This list should change as the company changes. We should talk about things on t
 
 ## Courses
 
-- Algorithms, Part I and Part 2: <https://www.coursera.org/learn/algorithms-part1>
-- Introduction to Databases: <https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about>
+- [ ] Algorithms, Part I and Part 2: <https://www.coursera.org/learn/algorithms-part1>
+- [ ] Introduction to Databases: <https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about>
 
 ## Books
 
-- The Mythical Man Month (Fred Brooks)
+- [ ] The Mythical Man Month (Fred Brooks)
   - a classic on the [human elements of software development](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-- Symbols, Signals and Noise (J.R. Pierce)
+- [ ] Symbols, Signals and Noise (J.R. Pierce)
   - an overview of [information theory and its founder Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon); storage, compression, and transmission of information
-- Sets, Functions, and Logic (Keith Devlin)
+- [ ] Sets, Functions, and Logic (Keith Devlin)
   - sets, logic, number theory, **problem-solving**
-- How to Prove It (Daniel J. Velleman)
+- [ ] How to Prove It (Daniel J. Velleman)
   - deeper dive into sets, logic, number theory and **problem-solving**
-- Don't Make Me Think (Steve Krug)
+- [ ] Don't Make Me Think (Steve Krug)
   - a classic on product design and UX
